@@ -1,0 +1,29 @@
+{
+  "name": "jumperjs",
+  "version": "1.0.0",
+  "description": "AngularFire CMS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielvpx/jumperJS.git"
+  },
+  "keywords": [
+    "CMS",
+    "JS",
+    "Angular",
+    "Firebase"
+  ],
+  "author": "Danielvpx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielvpx/jumperJS/issues"
+  },
+  "homepage": "https://github.com/danielvpx/jumperJS#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-webserver": "^0.9.1"
+  }
+}
